@@ -5,11 +5,9 @@ useHead({
   title: 'Han',
   meta: [
     { property: 'og:title', content: 'Han' },
-    { property: 'og:image', content: 'https://hannoeru.me/avatar.png' },
     { property: 'og:type', content: 'website' },
     { name: 'description', content: 'Han\'s Portfolio' },
     { name: 'twitter:card', content: 'summary_large_image' },
-    { name: 'twitter:creator', content: '@hannoeru' },
   ],
   htmlAttrs: {
     // @ts-ignore - missing this html attribute in @vueuse/head
