@@ -10,10 +10,10 @@
           <span class="lt-md:hidden">Blog</span>
           <div i-ri-article-line class="md:hidden" />
         </router-link>
-        <router-link to="/bookmarks" title="Bookmarks">
+        <!-- <router-link to="/bookmarks" title="Bookmarks">
           <span class="lt-md:hidden">Bookmarks</span>
           <div i-ri-bookmark-line class="md:hidden" />
-        </router-link>
+        </router-link> -->
         <a href="https://twitter.com/jeffrey75755118" target="_blank" rel="noopener" title="Twitter">
           <div i-feather-twitter />
         </a>
