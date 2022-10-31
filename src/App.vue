@@ -2,11 +2,11 @@
 import { useHead } from '@vueuse/head'
 
 useHead({
-  title: 'Han',
+  title: 'Jeffrey',
   meta: [
-    { property: 'og:title', content: 'Han' },
+    { property: 'og:title', content: 'Jeffrey' },
     { property: 'og:type', content: 'website' },
-    { name: 'description', content: 'Han\'s Portfolio' },
+    { name: 'description', content: 'Jeffrey\'s Portfolio' },
     { name: 'twitter:card', content: 'summary_large_image' },
   ],
   htmlAttrs: {
